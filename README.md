@@ -4,7 +4,8 @@
 | ------------- | ------------- |
 
 ### Interested in
-- **Python**
 - **Dart/Flutter**
-- **C++**
+- **Web**
+- **Ruby**
+- **Rust**
 - **Security**
