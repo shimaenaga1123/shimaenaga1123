@@ -5,8 +5,8 @@
 
 <a href="https://www.buymeacoffee.com/shimaenaga1123" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 ### Interested in
-- **Dart/Flutter**
+- **Dart / Flutter**
 - **Web**
 - **Ruby**
-- **Rust**
-- **Security**
+- **Rust / Crystal**
+- **Security (Forensics and Web Hacking)**
