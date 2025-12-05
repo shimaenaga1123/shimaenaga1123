@@ -7,6 +7,6 @@
 ### Interested in
 - **Dart / Flutter**
 - **Web**
-- **Ruby**
-- **Rust / Crystal**
+- **Ruby / Crystal**
+- **Rust**
 - **Security (Forensics and Web Hacking)**
